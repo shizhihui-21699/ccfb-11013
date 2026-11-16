@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# Build output and demo artifacts
+build/
+*.otap
+*.seed
